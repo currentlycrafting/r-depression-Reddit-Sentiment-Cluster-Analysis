@@ -1,6 +1,6 @@
 # r/Depression Reddit
 
-** r/Depression Reddit Data Analysis ** tool that parses Reddit post data from CSV format, performs sentiment analysis using TextBlob, extracts top keywords, and clusters authors based on sentiment polarity, subjectivity, and word count using K-Means. It includes powerful keyword filtering and interactive Plotly visualizations.
+**r/Depression Reddit Data Analysis** tool that parses Reddit post data from CSV format, performs sentiment analysis using TextBlob, extracts top keywords, and clusters authors based on sentiment polarity, subjectivity, and word count using K-Means. It includes powerful keyword filtering and interactive Plotly visualizations.
 
 --
 
