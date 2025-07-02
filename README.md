@@ -1,8 +1,11 @@
 # r/Depression Reddit
 
-**ClusterCast** is a data analysis tool that parses Reddit post data from CSV format, performs sentiment analysis using TextBlob, extracts top keywords, and clusters authors based on sentiment polarity, subjectivity, and word count using K-Means. It includes powerful keyword filtering and interactive Plotly visualizations.
+** r/Depression Reddit Data Analysis ** tool that parses Reddit post data from CSV format, performs sentiment analysis using TextBlob, extracts top keywords, and clusters authors based on sentiment polarity, subjectivity, and word count using K-Means. It includes powerful keyword filtering and interactive Plotly visualizations.
 
----
+--
+
+<img width="1123" alt="Screenshot 2025-07-01 at 10 38 58 PM" src="https://github.com/user-attachments/assets/7e2d81b4-e1c6-4aa3-bc05-c7b56c2ba6d1" />
+
 
 ## Features
 
